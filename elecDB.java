@@ -3,3 +3,9 @@
 
 package elecDB;
 
+public class DB 
+{
+
+	Database db = new Database();
+
+}
